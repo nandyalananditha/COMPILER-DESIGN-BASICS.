@@ -115,5 +115,10 @@ Reads "value" → identifier.
 
 Reads "return" → keyword.
 
-Conclusion
+**Conclusion**
+
 This lexical analyzer serves as a basic example of the first phase of a compiler's front-end. It demonstrates how source code can be tokenized and classified efficiently. Your program successfully reads input source code from a file, breaks it down into meaningful components, and outputs the token type for each. This lays the foundation for further compiler stages such as syntax analysis and semantic analysis.
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/f7da8028-bec3-497b-b662-1963f70a0c27)
